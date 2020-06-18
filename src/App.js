@@ -6,7 +6,7 @@ function App() {
  
   return (
     <main>
-      <h1>Web31 is _Amazing_!</h1>
+      <h1>Web31 is AMAZING!</h1>
       <h2>
         Deployed with{' '}
         <a
